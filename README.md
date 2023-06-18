@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as [SRE](https://github.com/psdike/cicd-projects)
 
-- 🌱 I’m currently learning **AdvancedSecOps**
+- 🌱 I’m currently learning **Advanced DevSecOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/psdike](https://github.com/psdike)
 
